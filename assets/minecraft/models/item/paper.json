@@ -1,0 +1,506 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 100000
+      },
+      "model": "minecraft:item/gem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100001
+      },
+      "model": "minecraft:item/spawner_shard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100003
+      },
+      "model": "minecraft:item/questpass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100020
+      },
+      "model": "minecraft:item/elder_guardian_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100021
+      },
+      "model": "minecraft:item/wither_skeleton_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100022
+      },
+      "model": "minecraft:item/stray_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100023
+      },
+      "model": "minecraft:item/husk_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100024
+      },
+      "model": "minecraft:item/zombie_villager_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100025
+      },
+      "model": "minecraft:item/skeleton_horse_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100026
+      },
+      "model": "minecraft:item/zombie_horse_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100027
+      },
+      "model": "minecraft:item/paper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100028
+      },
+      "model": "minecraft:item/donkey_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100029
+      },
+      "model": "minecraft:item/mule_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100030
+      },
+      "model": "minecraft:item/evoker_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100031
+      },
+      "model": "minecraft:item/vex_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100032
+      },
+      "model": "minecraft:item/vindicator_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100033
+      },
+      "model": "minecraft:item/illusioner_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100034
+      },
+      "model": "minecraft:item/creeper_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100035
+      },
+      "model": "minecraft:item/skeleton_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100036
+      },
+      "model": "minecraft:item/spider_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100037
+      },
+      "model": "minecraft:item/giant_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100038
+      },
+      "model": "minecraft:item/zombie_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100039
+      },
+      "model": "minecraft:item/slime_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100040
+      },
+      "model": "minecraft:item/ghast_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100041
+      },
+      "model": "minecraft:item/zombified_piglin_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100042
+      },
+      "model": "minecraft:item/enderman_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100043
+      },
+      "model": "minecraft:item/cave_spider_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100044
+      },
+      "model": "minecraft:item/silverfish_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100045
+      },
+      "model": "minecraft:item/blaze_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100046
+      },
+      "model": "minecraft:item/magma_cube_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100047
+      },
+      "model": "minecraft:item/ender_dragon_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100048
+      },
+      "model": "minecraft:item/wither_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100049
+      },
+      "model": "minecraft:item/bat_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100050
+      },
+      "model": "minecraft:item/witch_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100051
+      },
+      "model": "minecraft:item/endermite_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100052
+      },
+      "model": "minecraft:item/guardian_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100053
+      },
+      "model": "minecraft:item/shulker_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100054
+      },
+      "model": "minecraft:item/pig_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100055
+      },
+      "model": "minecraft:item/sheep_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100056
+      },
+      "model": "minecraft:item/cow_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100057
+      },
+      "model": "minecraft:item/chicken_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100058
+      },
+      "model": "minecraft:item/squid_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100059
+      },
+      "model": "minecraft:item/wolf_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100060
+      },
+      "model": "minecraft:item/mushroom_cow_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100061
+      },
+      "model": "minecraft:item/snowman_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100062
+      },
+      "model": "minecraft:item/ocelot_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100063
+      },
+      "model": "minecraft:item/iron_golem_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100064
+      },
+      "model": "minecraft:item/horse_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100065
+      },
+      "model": "minecraft:item/rabbit_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100066
+      },
+      "model": "minecraft:item/polar_bear_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100067
+      },
+      "model": "minecraft:item/llama_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100068
+      },
+      "model": "minecraft:item/parrot_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100069
+      },
+      "model": "minecraft:item/villager_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100070
+      },
+      "model": "minecraft:item/turtle_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100071
+      },
+      "model": "minecraft:item/phantom_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100072
+      },
+      "model": "minecraft:item/cod_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100073
+      },
+      "model": "minecraft:item/salmon_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100074
+      },
+      "model": "minecraft:item/pufferfish_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100075
+      },
+      "model": "minecraft:item/tropical_fish_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100076
+      },
+      "model": "minecraft:item/drowned_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100077
+      },
+      "model": "minecraft:item/dolphin_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100078
+      },
+      "model": "minecraft:item/cat_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100079
+      },
+      "model": "minecraft:item/panda_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100080
+      },
+      "model": "minecraft:item/pillager_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100081
+      },
+      "model": "minecraft:item/ravager_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100082
+      },
+      "model": "minecraft:item/trader_llama_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100083
+      },
+      "model": "minecraft:item/wandering_trader_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100084
+      },
+      "model": "minecraft:item/fox_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100085
+      },
+      "model": "minecraft:item/bee_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100086
+      },
+      "model": "minecraft:item/hoglin_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100087
+      },
+      "model": "minecraft:item/piglin_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100088
+      },
+      "model": "minecraft:item/strider_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100089
+      },
+      "model": "minecraft:item/zoglin_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100090
+      },
+      "model": "minecraft:item/piglin_brute_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100091
+      },
+      "model": "minecraft:item/axolotl_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100092
+      },
+      "model": "minecraft:item/glow_squid_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100093
+      },
+      "model": "minecraft:item/goat_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100094
+      },
+      "model": "minecraft:item/allay_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100095
+      },
+      "model": "minecraft:item/frog_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100096
+      },
+      "model": "minecraft:item/tadpole_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100097
+      },
+      "model": "minecraft:item/warden_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100098
+      },
+      "model": "minecraft:item/camel_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100099
+      },
+      "model": "minecraft:item/sniffer_soul"
+    }
+  ]
+}

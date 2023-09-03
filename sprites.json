@@ -1,0 +1,40 @@
+{
+    "gold_nugget": [
+        {
+            "custom_model_data": 7000,
+            "sprite": "textures/items/air"
+        },
+        {
+            "custom_model_data": 7001,
+            "sprite": "textures/items/lock"
+        },
+        {
+            "custom_model_data": 7002,
+            "sprite": "textures/items/unlock"
+        },
+        {
+            "custom_model_data": 7003,
+            "sprite": "textures/items/reward_unclaimed"
+        },
+        {
+            "custom_model_data": 7004,
+            "sprite": "textures/items/reward_claimed"
+        },
+        {
+            "custom_model_data": 7005,
+            "sprite": "textures/items/questbook"
+        },
+        {
+            "custom_model_data": 7006,
+            "sprite": "textures/items/questbook_gray"
+        },
+        {
+            "custom_model_data": 7007,
+            "sprite": "textures/items/reward_locked_gray"
+        },
+        {
+            "custom_model_data": 7008,
+            "sprite": "textures/items/reward_locked_green"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\uF801": -1,
+                "\uF804": -4,
+                "\uF805": 1
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/portal.png",
+            "ascent": 47,
+            "height": 170,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/daily_quests.png",
+            "ascent": 47,
+            "height": 170,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/week.png",
+            "ascent": 47,
+            "height": 170,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/quest_overview.png",
+            "ascent": 47,
+            "height": 170,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/rewards.png",
+            "ascent": 47,
+            "height": 170,
+            "chars": [
+                "\uEff5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/progress_bar.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uEff6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/gem_hud_numbers.png",
+            "ascent": -16,
+            "height": 8,
+            "chars": [
+                "ꢛꢚꢜꢝꢞꢟꢠꢡꢢꢣ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/gem_icon.png",
+            "ascent": -15,
+            "height": 9,
+            "chars": [
+                "ꢤ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "ui/gem_hud_comma.png",
+            "ascent": -17,
+            "height": 8,
+            "chars": [
+                "ꢥ"
+            ]
+        }
+    ]
+}
