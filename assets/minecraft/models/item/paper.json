@@ -18,9 +18,15 @@
     },
     {
       "predicate": {
-        "custom_model_data": 100003
+        "custom_model_data": 100002
       },
       "model": "minecraft:item/questpass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100003
+      },
+      "model": "minecraft:item/scroll"
     },
     {
       "predicate": {
