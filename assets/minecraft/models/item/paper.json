@@ -507,6 +507,12 @@
         "custom_model_data": 100099
       },
       "model": "minecraft:item/sniffer_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100100
+      },
+      "model": "minecraft:item/missing_soul"
     }
   ]
 }
